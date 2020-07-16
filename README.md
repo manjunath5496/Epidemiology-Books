@@ -191,7 +191,7 @@ Approaches in Epidemiology</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(87).pdf" style="text-decoration:none;">Biostatistics and Epidemiology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(88).pdf" style="text-decoration:none;">Introduction to Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(88).pdf" style="text-decoration:none;">Eras in Epidemiology</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(89).pdf" style="text-decoration:none;">Epidemiology for Field Veterinarians: 
 An Introduction</a></li>   
@@ -298,11 +298,12 @@ Mathematical Modeling of Infectious Diseases</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(128).pdf" style="text-decoration:none;">An Introduction to
 Epidemiology for Health Professionals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(129).pdf" style="text-decoration:none;">An Introduction to
-Epidemiology for Health Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(129).pdf" style="text-decoration:none;">Experimental Techniques in
+Plant Disease Epidemiology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(130).pdf" style="text-decoration:none;">Epidemiological Research:
 Terms and Concepts</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(131).pdf" style="text-decoration:none;">Biostatistics and Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(131).pdf" style="text-decoration:none;">Epidemiology, Nursing
+and Healthcare</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(132).pdf" style="text-decoration:none;">Leadership Theories

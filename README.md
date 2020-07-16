@@ -338,8 +338,22 @@ Health Care Organizations</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(144).pdf" style="text-decoration:none;">Statistical Methods
 in Genetic Epidemiology</a></li>
 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(145).pdf" style="text-decoration:none;">Epidemiologic Methods
+for the Study of Infectious Diseases</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(146).pdf" style="text-decoration:none;">Cancer Epidemiology:
+Principles and Methods</a></li>
 
 
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(147).pdf" style="text-decoration:none;">Human Genome
+Epidemiology</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(148).pdf" style="text-decoration:none;">Infectious Disease Epidemiology: Theory and Practice</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(149).pdf" style="text-decoration:none;">Pathology and Epidemiology
+of Cancer</a></li>
    
    </ul>

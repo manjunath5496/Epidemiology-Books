@@ -112,7 +112,7 @@ Mycobacterium tuberculosis Complex: Its Role in Biology, Epidemiology and Contro
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(50).pdf" style="text-decoration:none;">CAUSALITY: Models, Reasoning, and Inference</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(51).pdf" style="text-decoration:none;">Basic Statistics and Epidemiology: A practical guide</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(52).pdf" style="text-decoration:none;">Introduction to Astronautics: Mechanics of Solar System Flight</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(52).pdf" style="text-decoration:none;">Brain Metastases from Primary Tumors, Volume 3: Epidemiology, Biology, and Therapy of Melanoma and Other Cancers</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(53).pdf" style="text-decoration:none;">The Epidemiology of Plant Diseases</a></li> 
  
 
@@ -187,8 +187,7 @@ Approaches in Epidemiology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(84).pdf" style="text-decoration:none;">Kaplan and Sadock's Pocket Handbook of Clinical Psychiatry</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(85).pdf" style="text-decoration:none;">Alzheimer's Disease Decoded: The History, Present, And Future Of Alzheimer's Disease And Dementia</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(86).pdf" style="text-decoration:none;">Multivariate Methods
-in Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(86).pdf" style="text-decoration:none;">Introduction to Epidemiological Modeling: Basic Models and Their Properties</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(87).pdf" style="text-decoration:none;">Biostatistics and Epidemiology</a></li>
 

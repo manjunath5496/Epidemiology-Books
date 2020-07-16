@@ -230,71 +230,80 @@ Epidemiology</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(31).pdf" style="text-decoration:none;">The Metabolic Syndrome: Epidemiology, Clinical Treatment, and Underlying Mechanisms</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(103).pdf" style="text-decoration:none;">A Pocket Guide to Epidemiology</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(32).pdf" style="text-decoration:none;">Forensic Epidemiology: Principles and Practice</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(104).pdf" style="text-decoration:none;">Insulin Resistance and Cancer: Epidemiology, Cellular and Molecular Mechanisms and Clinical Implications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(33).pdf" style="text-decoration:none;">Lymphatic Filariasis: Epidemiology, Treatment and Prevention – The Indian Perspective</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(34).pdf" style="text-decoration:none;">Quantitative Methods for
-Health Research: A Practical Interactive Guide to Epidemiology and Statistics</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(35).pdf" style="text-decoration:none;">Statistical Methods for Environmental Epidemiology with R: A Case Study in Air Pollution and Health</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(105).pdf" style="text-decoration:none;">Communicable Disease Epidemiology and Control: A Global Perspective</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(106).pdf" style="text-decoration:none;">Epidemiology of
+Electromagnetic Fields</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(107).pdf" style="text-decoration:none;">Molecular Epidemiology
+of Microorganisms</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(36).pdf" style="text-decoration:none;">The Demography and Epidemiology
-of Human Health and Aging</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(108).pdf" style="text-decoration:none;">Dentistry, Dental Practice, and the Community</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(37).pdf" style="text-decoration:none;">Energy Epidemiology: an epidemiological approach to empirically-based population-level energy demand research</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(38).pdf" style="text-decoration:none;">Principles of Epidemiology
-in Public Health Practice</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(39).pdf" style="text-decoration:none;">Statistics for Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(109).pdf" style="text-decoration:none;">Principles of epidemiology: an introduction to applied epidemiology and biostatistics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(110).pdf" style="text-decoration:none;">Writing Dissertation and Grant Proposals: Epidemiology, Preventive Medicine and Biostatistics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(111).pdf" style="text-decoration:none;">Environmental
+Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(40).pdf" style="text-decoration:none;">Biostatistics for Human Genetic
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(112).pdf" style="text-decoration:none;">Survival Analysis for Epidemiologic
+and Medical Research</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(113).pdf" style="text-decoration:none;">Methods of Clinical
 Epidemiology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(41).pdf" style="text-decoration:none;">Clinical Epidemiology: Practice and Methods</a></li>
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(114).pdf" style="text-decoration:none;">Epidemiology: A Very Short Introduction</a></li>
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(42).pdf" style="text-decoration:none;">Spatial agent-based simulation modeling in public health: design, implementation, and applications for malaria epidemiology</a></li>
-
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(43).pdf" style="text-decoration:none;"> Fundamentals of Epidemiology and Biostatistics I</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(44).pdf" style="text-decoration:none;">Assessment of vegetable, fruit, and antioxidant vitamin intake in cancer epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(45).pdf" style="text-decoration:none;">Hypertension: A Companion to Braunwald's Heart Disease</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(115).pdf" style="text-decoration:none;"> The Epidemiology of Heroin and
+Other Narcotics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(116).pdf" style="text-decoration:none;">Applied Multilevel Analysis: A Practical Guide</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(117).pdf" style="text-decoration:none;">Reproductive and
+Perinatal Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(46).pdf" style="text-decoration:none;">A History of Epidemiologic Methods and Concepts</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(118).pdf" style="text-decoration:none;">Concepts of Epidemiology: An integrated introduction to the ideas, theories, principles and methods of epidemiology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(47).pdf" style="text-decoration:none;">New Frontiers of Molecular Epidemiology
-of Infectious Diseases</a></li>
-
-
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(48).pdf" style="text-decoration:none;">Tobacco Smoking Addiction: Epidemiology, Genetics, Mechanisms, and Treatment</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(119).pdf" style="text-decoration:none;">Analytic Methods for Applied Epidemiology: Framework and Contingency Table Analysis</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(49).pdf" style="text-decoration:none;">Strain Variation in the
-Mycobacterium tuberculosis Complex: Its Role in Biology, Epidemiology and Control</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(120).pdf" style="text-decoration:none;">Oxford Handbook of
+Epidemiology for Clinicians</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(50).pdf" style="text-decoration:none;">CAUSALITY: Models, Reasoning, and Inference</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(51).pdf" style="text-decoration:none;">Basic Statistics and Epidemiology: A practical guide</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(52).pdf" style="text-decoration:none;">Introduction to Astronautics: Mechanics of Solar System Flight</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(53).pdf" style="text-decoration:none;">The Epidemiology of Plant Diseases</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(121).pdf" style="text-decoration:none;">Basic
+epidemiology</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(122).pdf" style="text-decoration:none;">Biostatistical Methods
+in Epidemiology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(123).pdf" style="text-decoration:none;">Statistical Methods in Environmental
+Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(124).pdf" style="text-decoration:none;">Measurement in Medicine: 
+A Practical Guide</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(125).pdf" style="text-decoration:none;">Epidemiology of Mycotoxin Producing Fungi</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(54).pdf" style="text-decoration:none;">High-Yield Biostatistics, Epidemiology, and Public Health</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(126).pdf" style="text-decoration:none;">A Historical Introduction to
+Mathematical Modeling of Infectious Diseases</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(55).pdf" style="text-decoration:none;">Bayesian Methods in Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(127).pdf" style="text-decoration:none;">Field Epidemiology</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(56).pdf" style="text-decoration:none;">An Introduction to
-Mathematical Epidemiology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(128).pdf" style="text-decoration:none;">An Introduction to
+Epidemiology for Health Professionals</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(57).pdf" style="text-decoration:none;">Epidemiology Matters</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(58).pdf" style="text-decoration:none;">Applications of Regression Models in Epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(59).pdf" style="text-decoration:none;">Epigenetic Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(129).pdf" style="text-decoration:none;">An Introduction to
+Epidemiology for Health Professionals</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(130).pdf" style="text-decoration:none;">Epidemiological Research:
+Terms and Concepts</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(131).pdf" style="text-decoration:none;">Biostatistics and Epidemiology</a></li> 
  
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(60).pdf" style="text-decoration:none;">Human Herpesvirus-6: General Virology, Epidemiology and Clinical Pathology</a></li>

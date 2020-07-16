@@ -306,37 +306,37 @@ Terms and Concepts</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(131).pdf" style="text-decoration:none;">Biostatistics and Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(60).pdf" style="text-decoration:none;">Human Herpesvirus-6: General Virology, Epidemiology and Clinical Pathology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(132).pdf" style="text-decoration:none;">Leadership Theories
+and Case Studies: An Epidemiological Perspective</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(61).pdf" style="text-decoration:none;">Plant Virus and Viroid Diseases in the Tropics</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(62).pdf" style="text-decoration:none;">The Epidemiology of Diabetes Mellitus</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(63).pdf" style="text-decoration:none;">General Concepts in Integrated Pest and Disease Management</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(133).pdf" style="text-decoration:none;">Epidemiology: Key to Prevention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(134).pdf" style="text-decoration:none;">Basic Concepts in Statistics and Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(135).pdf" style="text-decoration:none;">A Dictionary of Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(64).pdf" style="text-decoration:none;">Essential Epidemiology: An Introduction for Students and Health Professionals</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(136).pdf" style="text-decoration:none;">Epidemiological Research:
+An Introduction</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(65).pdf" style="text-decoration:none;">Practical Healthcare Epidemiology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(137).pdf" style="text-decoration:none;">Exercises in Epidemiology: Applying Principles and Methods</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(66).pdf" style="text-decoration:none;">Clinical Epidemiology: Principles, Methods, and Applications for Clinical Research</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(138).pdf" style="text-decoration:none;">Biostatistics and Computer-based Analysis of Health Data using Stata</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(67).pdf" style="text-decoration:none;"> Epidemiologic methods: studying the occurrence of illness</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(68).pdf" style="text-decoration:none;">Age-Structured Population Dynamics
-in Demography and Epidemiology</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(69).pdf" style="text-decoration:none;">Statistical Methods in Spatial
-Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(139).pdf" style="text-decoration:none;"> Miraculous Plagues: 
+An Epidemiology of Early New England Narrative</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(140).pdf" style="text-decoration:none;">Diseases of Poverty: Epidemiology, Infectious Diseases, and Modern Plagues</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(141).pdf" style="text-decoration:none;">Gordis Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(70).pdf" style="text-decoration:none;">Epidemiology and
-Prevention of Gallstone Disease</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(142).pdf" style="text-decoration:none;">Handbook of Epidemiology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(72).pdf" style="text-decoration:none;">Epidemiological
-and Molecular Aspects on Cholera</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(143).pdf" style="text-decoration:none;">Managerial Epidemiology for
+Health Care Organizations</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(71).pdf" style="text-decoration:none;">Epidemiology: Principles
-and Practical Guidelines</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(144).pdf" style="text-decoration:none;">Statistical Methods
+in Genetic Epidemiology</a></li>
 
 
 

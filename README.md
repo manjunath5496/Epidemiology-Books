@@ -200,31 +200,33 @@ An Introduction</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(90).pdf" style="text-decoration:none;">Resistant Hypertension: Epidemiology, Pathophysiology, Diagnosis and Treatment</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(19).pdf" style="text-decoration:none;">Modern Epidemiology </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(91).pdf" style="text-decoration:none;">Statistical Thinking in Epidemiology </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(20).pdf" style="text-decoration:none;">Obesity, Epidemiology, Pathophysiology,
-and Prevention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(92).pdf" style="text-decoration:none;">Epidemiology and the
+People's Health</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(21).pdf" style="text-decoration:none;">Statistical Models in Epidemiology</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(22).pdf" style="text-decoration:none;">Jekel's Epidemiology, Biostatistics,
-Preventive Medicine, and Public Health</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(23).pdf" style="text-decoration:none;">Biostatistics for
-Epidemiology and Public Health Using R</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(93).pdf" style="text-decoration:none;">Applied Longitudinal Data Analysis for Epidemiology: A Practical Guide</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(94).pdf" style="text-decoration:none;">Outbreak Investigations
+Around the World: Case Studies in Infectious Disease Field Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(95).pdf" style="text-decoration:none;">Clinical Epidemiology: How to Do Clinical Practice Research</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(24).pdf" style="text-decoration:none;">Hospital Epidemiology and Infection Control</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(96).pdf" style="text-decoration:none;">Treating Mental Illness and
+Behavior Disorders in Children and Adults With Mental Retardation</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(25).pdf" style="text-decoration:none;">Rare Diseases Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(97).pdf" style="text-decoration:none;">Mathematical Models
+in Population Biology and Epidemiology</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(26).pdf" style="text-decoration:none;">Epidemiology: Study Design and Data Analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(98).pdf" style="text-decoration:none;">Forensic
+Epidemiology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(27).pdf" style="text-decoration:none;">Handbook of Statistics (Vol 27)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(28).pdf" style="text-decoration:none;">Epidemiology and Demography in Public Health</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(29).pdf" style="text-decoration:none;">Mathematical Epidemiology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(99).pdf" style="text-decoration:none;">Conduct and Oppositional Defiant Disorders: Epidemiology, Risk Factors, and Treatment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(100).pdf" style="text-decoration:none;">Reproductive Epidemiology: Principles and Methods</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(101).pdf" style="text-decoration:none;">Epidemiology: An Introduction</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(30).pdf" style="text-decoration:none;">Human cancer: epidemiology and environmental causes</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(102).pdf" style="text-decoration:none;">Rethinking Social Epidemiology</a></li>
 
 
 

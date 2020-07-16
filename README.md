@@ -102,59 +102,65 @@ of Infectious Diseases</a></li>
 
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(48).pdf" style="text-decoration:none;">Extra-Planetary Experiences: Alien-Human Contact and the Expansion of Consciousness</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(48).pdf" style="text-decoration:none;">Tobacco Smoking Addiction: Epidemiology, Genetics, Mechanisms, and Treatment</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(49).pdf" style="text-decoration:none;">The Way of the Explorer: An Apollo Astronaut's Journey Through the Material and Mystical Worlds</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(49).pdf" style="text-decoration:none;">Strain Variation in the
+Mycobacterium tuberculosis Complex: Its Role in Biology, Epidemiology and Control</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(50).pdf" style="text-decoration:none;">In the Shadow of the Moon: A Challenging Journey to Tranquility, 1965-1969</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(50).pdf" style="text-decoration:none;">CAUSALITY: Models, Reasoning, and Inference</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(51).pdf" style="text-decoration:none;">Inventing the American Astronaut</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(51).pdf" style="text-decoration:none;">Basic Statistics and Epidemiology: A practical guide</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(52).pdf" style="text-decoration:none;">Introduction to Astronautics: Mechanics of Solar System Flight</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(53).pdf" style="text-decoration:none;">Rude Astronauts</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(53).pdf" style="text-decoration:none;">The Epidemiology of Plant Diseases</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(54).pdf" style="text-decoration:none;">Review of NASA's Longitudinal Study
-of Astronaut Health</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(54).pdf" style="text-decoration:none;">High-Yield Biostatistics, Epidemiology, and Public Health</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(55).pdf" style="text-decoration:none;">Extreme: Why Some People Thrive at the Limits </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(55).pdf" style="text-decoration:none;">Bayesian Methods in Epidemiology</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(56).pdf" style="text-decoration:none;">God is an Astronaut</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(56).pdf" style="text-decoration:none;">An Introduction to
+Mathematical Epidemiology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(57).pdf" style="text-decoration:none;">Columbia, Final Voyage: The Last Flight of NASA's First Space Shuttle</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(58).pdf" style="text-decoration:none;">United Nations treaties and principles on outer space</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(59).pdf" style="text-decoration:none;">Dynamics of Explosions (Progress in Astronautics and Aeronautics, vol 114)</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(57).pdf" style="text-decoration:none;">Epidemiology Matters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(58).pdf" style="text-decoration:none;">Applications of Regression Models in Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(59).pdf" style="text-decoration:none;">Epigenetic Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(60).pdf" style="text-decoration:none;">Fundamentals of Kalman Filtering — A Practical Approach</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(60).pdf" style="text-decoration:none;">Human Herpesvirus-6: General Virology, Epidemiology and Clinical Pathology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(61).pdf" style="text-decoration:none;">The First Soviet Cosmonaut Team: Their Lives and Legacies</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(62).pdf" style="text-decoration:none;">Selecting the Mercury Seven: The Search for America's First Astronauts</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(63).pdf" style="text-decoration:none;">Space Mankind's Fourth Environment. Selected Papers from the XXXII International Astronautical Congress, Rome, 6–12 September 1981</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(61).pdf" style="text-decoration:none;">Plant Virus and Viroid Diseases in the Tropics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(62).pdf" style="text-decoration:none;">The Epidemiology of Diabetes Mellitus</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(63).pdf" style="text-decoration:none;">General Concepts in Integrated Pest and Disease Management</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(64).pdf" style="text-decoration:none;">Ancient Astronauts</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(64).pdf" style="text-decoration:none;">Essential Epidemiology: An Introduction for Students and Health Professionals</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(65).pdf" style="text-decoration:none;">Ask an Astronaut: My Guide to Life in Space</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(65).pdf" style="text-decoration:none;">Practical Healthcare Epidemiology</a></li>
 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(66).pdf" style="text-decoration:none;">A Man on the Moon: The Voyages of the Apollo Astronauts</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(66).pdf" style="text-decoration:none;">Clinical Epidemiology: Principles, Methods, and Applications for Clinical Research</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(67).pdf" style="text-decoration:none;"> Dynamics of Shock Waves, Explosions, and Detonations (Progress in Astronautics and Aeronautics)</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(68).pdf" style="text-decoration:none;">Gemini 4: An Astronaut Steps into the Void</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(69).pdf" style="text-decoration:none;">Aeronautics and Astronautics</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(67).pdf" style="text-decoration:none;"> Epidemiologic methods: studying the occurrence of illness</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(68).pdf" style="text-decoration:none;">Age-Structured Population Dynamics
+in Demography and Epidemiology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(69).pdf" style="text-decoration:none;">Statistical Methods in Spatial
+Epidemiology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(70).pdf" style="text-decoration:none;">Astronautics: The Physics of Space Flight</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(70).pdf" style="text-decoration:none;">Epidemiology and
+Prevention of Gallstone Disease</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(72).pdf" style="text-decoration:none;">What's It Like in Space? Stories from Astronauts Who've Been There</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(72).pdf" style="text-decoration:none;">Epidemiological
+and Molecular Aspects on Cholera</a></li>
 
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(71).pdf" style="text-decoration:none;">The Best Time Travel Stories of the 20th Century</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Epidemiology-Books/blob/master/epdm(71).pdf" style="text-decoration:none;">Epidemiology: Principles
+and Practical Guidelines</a></li>
 
 
 
